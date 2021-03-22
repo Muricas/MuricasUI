@@ -1,0 +1,10 @@
+## Interface: 11303
+## Title: MuricasUI
+## Version: 1.13.03
+## Notes: Specialized UI tweaks
+## Author: Muricas, Fairbanks
+## LoadOnDemand: 0
+## DefaultState: enabled
+
+embeds.xml
+MuricasUI.lua
